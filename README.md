@@ -17,3 +17,5 @@ I also wanted to improve my Javascript and Quasar skills, thus this tool was bor
 Do you like my work? Help me dedicate more time to my passion by supporting, no matter the size every cup of coffee brings me to the desk!
 
 <a href="https://www.buymeacoffee.com/maxiride" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width=200px ></a>
+
+LL
