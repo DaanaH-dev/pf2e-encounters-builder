@@ -1,3 +1,8 @@
+This is a fork of [Maxiride's pathfinder builder](https://github.com/maxiride/pf2e-encounters). I wanted to just take a look at the program and see how it worked and if I could add some functionality to it, but I couldn't get the prerequisites installed because I didn't know what the original configuration, so I am only using it as reference now.  
+
+
+
+
 # PF2e Encounter builder
 
 This tool helps building encounters for the popular RPG system, you can browse a list of all creatures or the ones matching the specified criteria, creatures added to the encounter can also be modified to account for their *Weak* and *Elite* variants other than their base stat block. Please refer to the Core Rulebook for the rules.
